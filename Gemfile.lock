@@ -1,0 +1,11 @@
+GEM
+  specs:
+    highline (1.6.1)
+    rake (0.8.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  highline
+  rake
